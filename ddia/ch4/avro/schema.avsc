@@ -1,0 +1,10 @@
+{"namespace" : "sensors.avro",
+"type": "record",
+"name": "sensors",
+"fields": [
+  {"name": "serial", "type": }, 
+  {"name":, "type": }, 
+  {"name":, "type": }, 
+  {"name":, "type": }, 
+]
+}
